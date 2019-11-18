@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 hello
 <<<<<<< HEAD
 develop create by zjh
@@ -6,3 +7,6 @@ create by me`
 develop create by zjh'
 update by zjh
 >>>>>>> d38916bcbfca85efcee12ce6fab837423c104017
+=======
+hello
+>>>>>>> 0becc20fbf36821a868ec95d8198cad8175d9b21
